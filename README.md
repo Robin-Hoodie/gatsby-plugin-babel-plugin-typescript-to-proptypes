@@ -18,7 +18,7 @@ We need to install both as `babel-plugin-typescript-to-proptypes` is a peer depe
 
 ## Available options
 
-All the options of `babel-plugin-typescript-to-proptypes` and will be passed through.  
+All the options of `babel-plugin-typescript-to-proptypes` are available and will be passed through.  
 Please see [the docs of that plugin](https://www.npmjs.com/package/babel-plugin-typescript-to-proptypes) on the available options.  
 
 The additional `disable` option has been added for convenience sake, which will disable this plugin from running altogether.
