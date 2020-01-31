@@ -41,6 +41,8 @@ Again, more to be found on that in [the docs on babel-plugin-typescript-to-propt
 }
 ```
 
+Once you've configured this plugin, you're free to delete any `propTypes` that you might already have defined in your code.
+
 You might want to set the `disable` option depending on the environment you're running gatsby in, as most people don't need `propTypes` in production builds.  
 Gatsby will set the env variable `NODE_ENV` to `development` or `production` for the `gatsby develop` and `gatsby build` commands respectively,
 which means a good way to configure the `disable` option would be as follows:
