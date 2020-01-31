@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-plugin-babel-plugin-typescript-to-proptypes",
+  "description": "A gatsby plugin that wraps [babel-plugin-typescript-to-proptypes](https://www.npmjs.com/package/babel-plugin-typescript-to-proptypes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "babel",
+    "typescript",
+    "proptypes",
+    "babel-plugin-typescript-to-proptypes"
+  ],
+  "author": "Robin Hellemans <robin@oreon.io>",
+  "license": "ISC",
+  "dependencies": {},
+  "peerDependencies": {
+    "babel-plugin-typescript-to-proptypes": "^1.2.1"
+  }
+}
