@@ -11,10 +11,15 @@ As the name suggests, this plugin is a pretty basic wrapper around [babel-plugin
 
 To get started, install this plugin and `babel-plugin-typescript-to-proptypes` by running
 
-`npm i -D gatsby-plugin-babel-plugin-typescript-to-proptypes babel-plugin-typescript-to-proptypes` or  
+When using NPM:
+
+`npm i -D gatsby-plugin-babel-plugin-typescript-to-proptypes babel-plugin-typescript-to-proptypes`
+
+When using Yarn:
+  
 `yarn add --dev gatsby-plugin-babel-plugin-typescript-to-proptypes babel-plugin-typescript-to-proptypes`
 
-We need to install both as `babel-plugin-typescript-to-proptypes` is a peer dependency of this plugin.
+We need to install both as [babel-plugin-typescript-to-proptypes](https://www.npmjs.com/package/babel-plugin-typescript-to-proptypes) is a peer dependency of this plugin.
 
 ## Available options
 
