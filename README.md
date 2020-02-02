@@ -9,7 +9,7 @@ As the name suggests, this plugin is a pretty basic wrapper around [babel-plugin
 
 ## How to install
 
-To get started, install this plugin and `babel-plugin-typescript-to-proptypes` by running
+To get started, install this plugin and `babel-plugin-typescript-to-proptypes`:
 
 When using NPM:
 
